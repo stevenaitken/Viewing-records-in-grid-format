@@ -1,0 +1,18 @@
+html{
+	margin-top:20px;font-family:"Open Sans";
+}
+#container{
+	width:900px;
+	margin:0 auto;
+		
+}
+table{
+    table-layout: fixed;
+    width: 900px;
+}
+th{background-color:#006; color:#fff;}
+th, td {
+    border: 1px solid black;
+    width: 250px;
+	text-align:left;
+}
