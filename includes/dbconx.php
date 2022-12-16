@@ -1,8 +1,8 @@
 <?php
 
 $servername = "localhost";
-$username = "sgaitken"; //add your own username
-$password = "kFwy/ZM57ByfvQXQ"; //add your own password
+$username = ""; //add your own username
+$password = ""; //add your own password
 $dbase = "photography"; //dbase name
 
 //mysqli_report(MYSQLI_REPORT_ERROR | MYSQLI_REPORT_STRICT); // for error reporting
